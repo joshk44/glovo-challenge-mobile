@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GlovoAppChallenge</string>
+    <string name="title_activity_maps">GlovoAppChallenge</string>
+    <string name="city">City:</string>
+    <string name="currency">Currency:</string>
+    <string name="languague">Languague:</string>
+    <string name="enabled">Enabled:</string>
+    <string name="select_an_available_city"><![CDATA[Select an available city ->]]></string>
+    <string name="select_city">Select City</string>
+    <string name="please_pick_a_city_where_we_work">Please pick a city where we work.</string>
+</resources>
